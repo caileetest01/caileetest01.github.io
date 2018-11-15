@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "test post thank you"
-date:       2018-11-15 19:44:23 +0000
+date:       2018-11-15 14:44:23 -0500
 permalink:  test_post_thank_you
 ---
 
